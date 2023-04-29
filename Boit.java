@@ -6,7 +6,6 @@
 public class Boit {
 
     protected int poids;
-
     public Boit(int poids) {
         this.poids = poids;
     }
